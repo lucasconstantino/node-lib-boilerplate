@@ -4,7 +4,7 @@
 [![Downloads/week](https://img.shields.io/npm/dw/node-contrib-boilerplate.svg)](https://npmjs.org/package/node-contrib-boilerplate)
 [![License](https://img.shields.io/npm/l/node-contrib-boilerplate.svg)](https://github.com/lucasconstantino/node-contrib-boilerplate/blob/master/package.json)
 [![build status](https://img.shields.io/travis/lucasconstantino/node-contrib-boilerplate/master.svg?style=flat-square)](https://travis-ci.org/lucasconstantino/node-contrib-boilerplate)
-[![coverage](https://img.shields.io/codecov/c/github/lucasconstantino/node-contrib-boilerplate.svg?style=flat-square)](https://codecov.io/github/lucasconstantino/node-contrib-boilerplate)
+[![coverage](https://img.shields.io/codecov/c/github/lucasconstantino/node-contrib-boilerplate.svg?style=flat-square)](https://codecov.io/github/lucasconstantino/node-contrib-boilerplate) [![Greenkeeper badge](https://badges.greenkeeper.io/lucasconstantino/node-lib-boilerplate.svg)](https://greenkeeper.io/)
 
 **A boilerplate for node-focused open-source libraries.**
 
